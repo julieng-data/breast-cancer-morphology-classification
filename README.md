@@ -3,9 +3,9 @@
 ## Overview
 This project was developed during the **National Canadian Medical Datathon 2026**, a time-constrained (2-day) competition bringing together students from diverse backgrounds including medicine, computing, and data science.
 
-The goal was to investigate whether simple, interpretable tumour morphology features could be used to predict breast tumour malignancy using the Breast Cancer Wisconsin (Diagnostic) dataset.
+Our goal was to investigate whether simple, interpretable tumour morphology features could be used to predict breast tumour malignancy using the Breast Cancer Wisconsin (Diagnostic) dataset.
 
-Given the **diverse judging panel** (clinicians, researchers, and technical experts), the project was designed to be both **technically sound and easily interpretable**, emphasizing clarity, intuition, and real-world relevance.
+Given the **diverse judging panel** (clinicians, researchers, and industry and computing experts), the project was designed to be both **technically sound and easily interpretable**, emphasizing clarity, intuition, and real-world relevance.
 
 ---
 
@@ -17,7 +17,7 @@ To assess whether a small set of interpretable morphological features can distin
 ## Methods
 
 ### 1. Exploratory Data Analysis (R)
-- Visualized feature distributions using violin plots
+- Visualized feature distributions using violin plot
 - Assessed class separability between benign and malignant tumours
 
 ### 2. Model Development (Python)
@@ -64,7 +64,7 @@ This was designed to make the model more **intuitive and accessible**, especiall
 
 ## Tools Used
 - R (ggplot2, tidyverse) for EDA
-- Python (scikit-learn) for modeling
+- Python (scikit-learn) for modelling
 - Logistic Regression
 
 ---
@@ -76,7 +76,7 @@ UCI Machine Learning Repository
 ---
 
 ## Context
-This project was completed within a **2-day datathon setting**, requiring rapid prototyping, prioritization of interpretable features, and clear communication across a **multidisciplinary audience**.
+This project was completed within a **2-day datathon setting**, requiring rapid prototyping, prioritization of interpretable features, and clear communication across a **multidisciplinary audience**. Some interpretative insights were delivered verbally during the presentation and have been summarized here.
 
 As a result, the project emphasizes:
 - simplicity over complexity  
